@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Volodymyr Bilokur](https://up.htmlacademy.ru/htmlcss/28/user/28642).
-* Наставник: `Неизвестно`.
+* Наставник: `KeksoBot`.
 
 ---
 
